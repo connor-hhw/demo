@@ -1,0 +1,157 @@
+
+#div1{
+	width: 100%;
+}
+
+#div1>img{
+	width: 100%;
+	
+}
+
+*{
+	margin: 0px;
+}
+
+
+
+
+
+#div2{
+	display: flex;
+	justify-content: center;
+    flex-wrap: wrap;
+}
+#div2 > img{
+	width: 20%;
+	
+}
+
+
+
+
+
+
+
+#div3{
+	width: 100%;
+}
+#div3> img{
+	height: 40%;
+	width: 100%;
+}
+#div3> #div3_top>img{
+	width: 100%;
+}
+#div3_bm{
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+   
+}
+
+#div3_bm>div>{
+	width: 25%;
+}
+#div3_bm>div>img{
+	width: 100%;
+}
+
+
+
+
+
+#div4{
+width: 100%;
+}
+#div4> img{
+	width: 100%;
+}
+#div4> #div4_top>img{
+	width: 100%;
+}
+#div4_bm{
+	width: 100%;
+	display: flex;
+	
+	justify-content: space-around;
+    transform: translateY(-130px);
+}
+
+#div4_bm>div>{
+	margin: 100px;
+	width: 20%;
+}
+#div4_bm>div>img{
+	width: 100%;
+}
+
+
+
+#div5{
+	align-content: space-around ;
+width: 100%;
+}
+#div5> img{
+	width: 100%;
+}
+#div5> #div5_top>img{
+	width: 100%;
+}
+#div5_bm{
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+}
+
+#div5_bm>div>{
+	margin-top: 50px;
+	width: 20%;
+}
+#div5_bm>div>img{
+	width: 100%;
+}
+
+
+
+#div6{
+width: 100%;
+}
+#div6> img{
+	width: 100%;
+}
+
+
+
+#div6{
+width: 100%;
+}
+#div6> img{
+	width: 100%;
+}
+
+
+
+#div7{
+width: 100%;
+}
+#div7> img{
+	width: 100%;
+}
+
+
+#div8{
+width: 100%;
+}
+#div8> img{
+	width: 100%;
+}
+
+
+
+#div9{
+width: 100%;
+}
+#div9> img{
+	width: 100%;
+}
+
